@@ -1,0 +1,13 @@
+streamlit
+python-dotenv
+pinecone-client
+torch
+transformers
+accelerate
+bitsandbytes
+sentence-transformers
+llama-index
+llama-index-vector-stores-pinecone
+llama-index-embeddings-huggingface
+llama-index-llms-huggingface
+PyMuPDF
